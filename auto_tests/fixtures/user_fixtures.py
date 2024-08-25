@@ -36,5 +36,11 @@ def user_data():
             'last_name': generate_random_last_name(),
             'email': generate_random_email(),
             'password': generate_random_password(),
+            'product': '14.1-inch Laptop',
+            'country': 'Belarus',
+            'city': 'Minsk',
+            'address': 'Address street, number',
+            'postal_code': '220033',
+            'phone': '+375000000000',
         }
     }
